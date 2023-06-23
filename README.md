@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 
+### I only made one clickable link at the navigation bar/menu bar please check the "ENQUIRE NOW" button
